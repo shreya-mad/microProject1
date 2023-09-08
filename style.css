@@ -1,0 +1,68 @@
+body{
+    width: 1100px;
+}
+.header{
+  display: flex;
+  background-color: rgb(205, 169, 101);
+}
+.footer{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+}
+.div1{
+    margin: 50px;
+}
+.divHeader1{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 50%;
+}
+#dweepImg{
+    height: 400px;
+}
+#text{
+    color: white;
+    font-size: large;
+}
+.divFooter1{
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
+.divFooter2{
+    /* float: left; */
+    list-style: none;
+    margin-top: 30px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    text-align:right;
+}
+#email{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    width: 55%;
+}
+#input{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 33%;
+}
+.emailRegis{
+    /* border: 2px solid red; */
+    width: 100%;
+}
+#list1{
+    list-style: none;
+}
+#list2{
+    list-style: none;
+}
+#para{
+    width: 80%;
+}
